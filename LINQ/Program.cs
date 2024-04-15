@@ -34,7 +34,7 @@ namespace LINQ
                 {
                     Console.WriteLine(item);
                 }
-            #endregion
+                #endregion
 
                 Console.WriteLine("--2. Query syntax or Query Expression--");
                 #region 2. Query syntax or Query Expression
@@ -43,7 +43,7 @@ namespace LINQ
                 {
                     Console.WriteLine(item);
                 }
-            #endregion
+                #endregion
 
 
             #endregion
